@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityApi", "IdentityApi\IdentityApi.csproj", "{7BDA6FE7-28EC-4021-8921-426AD279FE34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4119D0F8-4F0A-415B-BAF9-F4F0ED3042B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6CDA8189-84C9-4012-A568-9EA78F743CA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{C778BA44-00BD-47DE-A329-35DE1B1C5510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BDA6FE7-28EC-4021-8921-426AD279FE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDA6FE7-28EC-4021-8921-426AD279FE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDA6FE7-28EC-4021-8921-426AD279FE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDA6FE7-28EC-4021-8921-426AD279FE34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7BDA6FE7-28EC-4021-8921-426AD279FE34} = {4119D0F8-4F0A-415B-BAF9-F4F0ED3042B3}
+		{C778BA44-00BD-47DE-A329-35DE1B1C5510} = {4119D0F8-4F0A-415B-BAF9-F4F0ED3042B3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81132827-0F4A-424E-8504-7B7125220887}
+	EndGlobalSection
+EndGlobal
